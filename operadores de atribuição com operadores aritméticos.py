@@ -3,7 +3,7 @@ Operadores de atribuição
 = += -= *= /= //= **= %=
 '''
 '''
-            a = 10                ATRIBUIÇÃO
+            a = 10                                               ATRIBUIÇÃO
 a = a + b     ou     a += b       ADIÇÃO
 a = a - b     ou     a -= b       SUBTRAÇÃO
 a = a * b     ou     a *= b       MULTIPLICAÇÃO
